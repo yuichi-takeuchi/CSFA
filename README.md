@@ -1,7 +1,7 @@
 # CSFA
 fork from [neil-gallagher/CSFA](https://github.com/neil-gallagher/CSFA)
 
-used from [yuichi-takeuchi/CSFA_wrapper](https://github.com/neil-gallagher/CSFA_wrapper)
+used from [yuichi-takeuchi/CSFA_wrapper](https://github.com/yuichi-takeuchi/CSFA_wrapper)
 
 > # CSFA
 > Codebase for Cross-Spectral Factor Analysis (Gallagher et al., 2017)
